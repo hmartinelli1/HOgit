@@ -21,6 +21,10 @@ en qué estado está el repositorio y en qué branch están:
 
 Clonamos un repositorio de github con sólo un README
 
+## Cambiar url!
+git remote set-url y el nombre de la url que queres cambiar
+
+
 ```
 git clone https://github.com/wtpc/HOgit.git
 cd HOgit
